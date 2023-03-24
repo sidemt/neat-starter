@@ -1,10 +1,7 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Forum
+    url: https://forum.freecodecamp.org/
+  - text: Donate
+    url: https://www.freecodecamp.org/donate/
   - text: Blog
-    url: "/blog"
+    url: /blog
